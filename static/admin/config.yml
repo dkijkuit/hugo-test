@@ -3,7 +3,7 @@ backend:
   name: git-gateway
   branch: master
   api_root: https://api.github.com
-  base-url: https://api.netlify.com
+  base-url: https://api.github.com
   site-domain: cms.netlify.com
   auth_endpoint: auth
   cms_label_prefix: openweb-blog-cms/
